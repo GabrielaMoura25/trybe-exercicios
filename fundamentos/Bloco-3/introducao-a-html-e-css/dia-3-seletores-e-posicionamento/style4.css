@@ -25,3 +25,11 @@ li{
 li em{
     font-weight: bolder;
 }
+
+ul.programacao li.tresp{
+    color: blue;   
+}
+
+.rosa{
+    background-color: pink;
+}
