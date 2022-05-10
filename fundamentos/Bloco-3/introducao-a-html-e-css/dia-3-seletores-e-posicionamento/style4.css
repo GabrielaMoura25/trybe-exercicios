@@ -33,3 +33,23 @@ ul.programacao li.tresp{
 .rosa{
     background-color: pink;
 }
+
+a:hover{
+    font-weight: bolder;
+}
+
+.verde:hover{
+    color: green;
+}
+
+#amarela:hover{
+    color: yellow;
+}
+
+#preta:hover{
+    color: black;
+}
+
+#laranja:hover{
+    color: orange;
+}
