@@ -8,3 +8,12 @@ ol:nth-child(even){
 .impares{
     text-transform: uppercase;
 }
+
+h1,h3{
+    color: red;
+}
+
+h1{
+    font-size: 40px;
+    border: 1px black solid;
+}
