@@ -154,4 +154,31 @@
 //     console.log('mensagem de erro e encerrar')
 // }
 
+//opção 3
+
+// let notaEmPorcentagem =70;
+
+// if(notaEmPorcentagem>=90 && notaEmPorcentagem<100){
+//     console.log('A')
+// }
+// else if(notaEmPorcentagem>=80 && notaEmPorcentagem<90){
+//     console.log('B')
+// }
+// else if(notaEmPorcentagem>=70 && notaEmPorcentagem<80){
+//     console.log('C')
+// }
+// else if(notaEmPorcentagem>=60 && notaEmPorcentagem<70){
+//     console.log('D')
+// }
+// else if(notaEmPorcentagem>=50 && notaEmPorcentagem<60){
+//     console.log('E')
+// }
+// else if(notaEmPorcentagem>=0 && notaEmPorcentagem<50){
+//     console.log('F')
+// }
+// else{
+//     console.log('mensagem de erro e encerra')
+// }
+
 //EXERCICIO 8
+
