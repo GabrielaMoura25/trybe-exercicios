@@ -6,3 +6,6 @@ document.getElementById("subtitle").innerText = "Comentários sobre o filme:"
 
 let paragrafos = document.getElementsByClassName('paragrafo');
 paragrafos[0].style.color = 'blue';
+
+let subTitulo = document.getElementsByTagName('h4');
+subTitulo[0].style.color = 'green';
